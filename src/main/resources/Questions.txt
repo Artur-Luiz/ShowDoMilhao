@@ -1,0 +1,101 @@
+#  DIFICULDADE | PERGUNTA | RESPOSTA (VERDADEIRA) | RESPOSTA 1 (FALSA) | RESPOSTA 2 (FALSA) | RESPOSTA 3 (FALSA) | RESPOSTA 4 (FALSA)
+Easy | Quais são as cores do uniforme do Personagem Chapolin Colorado? | Amarelo e Vermelho | Azul e Laranja | Verde e Amarelo | preto e branco | verde e vermelho
+Easy | Quantas cores há em um arco-íris? | 7 | 4 | 5 | 6 | 8
+Easy | Qual é a capital do Brasil? | Brasília | Rio de Janeiro | Recife | Curitiba | São Paulo
+Easy | Qual é a região mais pobre do Brasil? | Nordeste | Norte | Sudeste | Sul | Centro-oeste
+Easy | Qual é a região mais rica do Brasil? | Sul | Norte | Sudeste | Nordeste | Centro-oeste
+Easy | Qual é o maior país do mundo? | Rússia | China | Estados Unidos | Brasil | Canadá
+Easy | Qual é o maior oceano do mundo? | Pacifico | Indico | atlantico | Polar artico | Polar antartico
+Easy | Qual é a capital da França? | Paris | Lião | Nancy | Bordéus | Limoges
+Easy | Quem escreveu a obra "1984"? | George Orwell | Stephen King | Franz Kafka | J. K. Rowling | H. P. Lovecraft
+Easy | Qual é o maior rio do mundo? | Amazonas | Nilo | Danúbio | Amarelo | Mississippi
+Easy | Qual é a montanha mais alta do mundo? | Everest | K2 | kilimanjaro | Aconcágua | Elbrus
+Easy | Quem foi o pintor do quadro "A Noite Estrelada"? | Vincent Van Gogh | Claude Monet | Pablo Picasso | Édouard Manet | Auguste Rodin
+Easy | Quem foi o líder da Revolução Russa em 1917? | Vladimir Lenin | Leon Trotsky | Josef Stalin | Mikhail Kalinin | Georgy Zhukov
+Easy | Qual é o nome do Primeiro livro do antigo testamento da bíblia | Gênesis | Números | Êxodo | Jô | Deuteronômio
+Easy | Quem foi o fundador da empresa Microsoft? | Bill Gates | Steve Jobs | Elon Musk | Jeff Bezos | Linus Torvalds
+Easy | Qual é o nome da cidade em que Jesus Cristo nasceu? | Belém | Jerusalém | Sidom | Tiro | Aleppo
+Easy | Qual é o nome da cidade sagrada do Islã? | Mecca | Mascate | Jerusalém | Cairo | Aleppo
+Easy | Qual é o nome da série de livros que documenta todos os recordes já registrados? | Guinness book | Records List | Ranking Book | Crazy Records | All Records
+Easy | Em que período se passa a Primeira Guerra Mundial? | 1914 - 1918 | 1867 - 1871 | 1905 - 1907 | 1939 - 1945 | 1802 - 1815
+Easy | Em que período se passa a Segunda Guerra Mundial? | 1939 - 1945 | 1914 - 1918 | 1919 - 1921 | 1936 - 1939 |1905 - 1907
+Easy | Quem foi o fundador da empresa Tesla? | Elon Musk | Bill Gates | Steve Jobs | Nikola Testa | Linus Torvalds
+Easy | Qual é o jogo de videogame mais vendido de todos os tempos? | Tetris | Minecraft | Wii Sports | GTA V | Super mario Bros
+Easy | Qual é o nome do primeiro homem criado por Deus? | Adão | Judas | Moisés| Jesus | João Batista
+Easy | Quem é o melhor amigo do Bob Esponja? | Patrick | Lula Molusco | Plankton | Sandy | Seu sirigueijo
+Easy | Qual é a capital da Itália? | Roma | Veneza | Pisa | Florença | Milão
+Easy | Quem foi o inventor da aviação? | Santos Dumont | Irmãos Wright | Nikola Tesla | Graham Bell | Thomas Edison
+Easy | Em que Estado Brasileiro se encontra a maior parte da floresta amazônica? | Amazonas | Pará | Rondônia | Acre | Roraima
+Easy | Qual é o nome do primeiro homem a pisar na lua? | Neil Armstrong | Alan Shepard | John Glenn | Iuri Gagarin | Buzz Aldrin
+Easy | Qual é o país mais populoso do mundo? | Índia | China | Estados Unidos | Indonésia | Paquistão
+Easy | Qual é o nome do mar que banha o sul da europa, o norte da áfrica, e a região do levante? | Mediterânio | Negro | Caribe | Caspio | Mar Baltico
+Easy | Qual é o nome do cientista responsável pela teoria da relatividade? | Albert Einstein | Isaac Newton | Galileu Galilei | Charles Darwin | Stephen Hawking
+Easy | Qual é a capital da Espanha? | Madrid | Barcelona | Valência | Sevilha | Toledo
+Easy | Qual é o planeta mais próximo do Sol? | Mercúrio | Vênus | Marte | Terra | Júpiter
+Easy | Qual é a capital da Alemanha? | Berlim | Munique | Hamburgo | Colônia | Frankfurt
+Easy | Quem foi o líder cubano que comandou a Revolução Cubana em 1959? | Fidel Castro | Salvador Allende | Francisco Franco | Augusto Pinochet | Raul Castro
+Easy | Qual é o animal símbolo da Austrália? | Canguru | Coala | Cisne Negro | Ornitorrinco | Diabo-da-tasmânia
+Easy | Qual é a capital do México? | Cidade do México | Cancún | Guadalajara | Tijuana | Acapulco
+Easy | Qual é a capital do Reino Unido? | Londres | Manchester | Liverpool | Birmingham | Cambridge
+Easy | Quem foi o responsável pela reforma protestante durante o século XVI? | Martin Lutero | São Agostinho | São tomás de aquino | Henrique VIII | Nestório
+Easy | Qual foi o país pioneiro na exploração do novo mundo durante as grandes navegações? | Portugal | Inglaterra | holanda | França | Dinamarca
+Easy | Qual é a capital da China? | Pequim | Xangai | Hong Kong | Tóquio | Bangkok|
+Easy | Qual é o maior estado brasileiro em área territorial? | Amazonas | Pará | São Paulo | Minas Gerais | Mato Grosso | Paraná
+Easy | Quem foi o líder pacifista que liderou o movimento pela independência da Índia? | Mahatma Gandhi | Merenda Modi | Draupadi Murmu | Gautama Buda | Asoca
+Easy | Qual é o maior planeta do nosso sistema solar? | Júpiter | Terra | Netuno | Vênus | Mercúrio
+Easy | Qual é o planeta mais distante do sol no nosso sistema solar? | Netuno | Urano | Júpiter | Vênus | Marte
+Easy | Qual das 7 maravilhas do mundo antigo ainda existe? | Pirâmides de Gizé | Farol de Alexandria | Colosso de Rhodes | Jardins suspensos da Babilônia | Mausoléu de Halicarnasso
+Easy | Qual é o elemento químico símbolo "Fe"? | Ferro | Ouro | Chumbo | Cobre | Sódio
+Easy | Que evento determinou a entrada dos Estados Unidos na Segunda Guerra Mundial? | bombardeio de Pearl harbor | invasão alemã da Polônia | Batalha de Stalingrado | Capitulação da França | Batalha de Midway
+Easy | Qual é o nome da organização internacional criada após a Segunda Guerra Mundial, que tem como objetivo manter a paz e a segurança mundial? | ONU | OMS | Liga das nações | OTAN | União Europeia
+Medium | Quem foi o primeiro presidente eleito democraticamente após a redemocratização do Brasil? | Fernando Collor | Jair Bolsonaro | Itamar Franco | José Sarney | Tancredo Neves
+Medium | Quem pintou o teto da Capela Sistina? | Michelangelo | Rafael | Leonardo Da Vinci | Donatello | sandro botticelli
+Medium | Qual é a cidade mais populosa do mundo? | Tóquio | Delhi | Bangkok | cidade do méxico | São Paulo
+Medium | Qual é a capital da Índia? | Nova Delhi | Jaipur | Bangalore | Bangkok | Bagdá
+Medium | Qual foi a primeira capital estabelecida do brasil? | Salvador | Rio de Janeiro | Porto Alegre | Brasília | São Paulo
+Medium | Quem foi o principal responsável pela criação do ENIAC? | Alan Turing | John von Neumann | Ada Lovelace | Konrad Fuze | Charles babbage
+Medium | Quem foi o principal responsável pela instauração da república no brasil? | Deodoro da Fonseca | Floriano Peixoto | Hermes da Fonseca | Campos Sales | José Bonifácio
+Medium | Quantos anos Jesus Cristo tinha quando foi crucificado? | 33 | 30 | 28 | 40 | 36
+Medium | Qual é o nome do homem que batizou Jesus Cristo? | João Batista | São Paulo | São José | São Marcos  | Herodes
+Medium | Qual é o menor país do mundo? | Vaticano | Cingapura | Havaí | Montenegro | Chipre
+Medium | Qual é a ferramenta usada antigamente para fazer cálculos simples de matemática? | Ábaco | Compasso | Astrolábio | Bússola | Mapa
+Medium | Qual é a cidade mais populosa do Brasil? | São paulo | Rio de Janeiro | Curitiba | Belo Horizonte | Campinas
+Medium | Qual é o nome da união da coroa portuguesa e espanhola entre os anos de 1580 e 1640? | União Ibérica | União Portuguesa | União Espanhola | União Hispânica | União Latina
+Medium | Qual é o nome do Ditador responsável pela disseminação da ideologia fascista na Itália durante o século XX? | Benito Mussolini | Vitor Emmanuel III | Italo Balbo | Giuseppe Mazzini | Giovanne Gentili
+Medium | Qual é a linguagem de programação mais usada do mundo? | JavaScript | Python | R Language | C++ | Java
+Medium | Qual é a linguagem de programação mais próxima da linguagem de máquina? | Assembly | Java | C | COBOL | Fortran | Python
+Medium | Qual foi o evento que deu início à Segunda Guerra Mundial? | Invasão Alemã da polônia | Bombardeio de Pearl Harbor | Tratado de Munique | Invasão Alemã a União Soviética | Bombardeio de Dresden
+Medium | Qual é o nome do primeiro imperador do império romano? | Caesar Augustus | Trajano | Cômodo | Julio Caesar | Nero
+Medium | Qual é o nome do ditador brasileiro que foi reeleito como presidente após ser deposto? | Getúlio Vargas | Castelo Branco | João Figueiredo | Emílio Médici | Costa e silva
+Medium | Qual é o maior deserto do mundo? | Antártida | Saara | Ártico | Arábia | Kalahari
+Medium | Quem escreveu a obra "O Senhor dos Anéis"? | J.R.R Tolkien | C.S Lewis | J. K. Rowling | Franz Kafka | Stephen King
+Medium | Quem foi o inventor da lâmpada elétrica? | Thomas Edison | Nikola Tesla | James Watt | Karl Benz | Graham Bell
+Medium | Quem foi o líder norte-americano conhecido como o "pai fundador" e primeiro presidente dos Estados Unidos? | George Washington | Alexander Hamilton | James Jay | Benjamin Franklin | John Adams
+Medium | Qual é o maior lago do mundo? | Mar Cáspio |  Lago Ness | Mar Vermelho | Rio Guaiba | Baía da Babitonga
+Medium | Quem foi o presidente dos Estados Unidos durante a Guerra Civil Americana? | Abraham Lincoln | George Washington | John Adams | James Monroe | Alexander Hamilton
+Hard | Quem é a pessoa mais rica do Brasil em 2023? | Jorge Paulo Lemann | Lúcia Maggi | Luciano Hang | Eduardo Saverin | Alexandre Behring
+Hard | Qual é o nome do último imperador do império Alemão? | Guilherme II | Otto von Bismarck | Francisco José I| Adolf Hitler | Monark
+Hard | Qual é o nome do militar e político prussiano responsável pela unificação alemão? | Otto von Bismarck | Adolf Hitler | Frederico Barbarossa | Carlos V | Francisco Ferdinando
+Hard | Quem foi o criador do prêmio Nobel? | alfred Nobel | James Nobel | Nobelios Georgiou | Nobert Smith | Norberto Silva
+Hard | Que evento determinou o fim da idade média e o início da idade moderna? | Queda de constantinopla | revolução francesa | Revolução Industrial | Guerra dos cem anos | Batalha de Poitiers
+Hard | Que filósofo alemão foi responsável pela criação do conceito de "übermensch"? | Friedrich Nietzsche | Immanuel Kant | Friedrich Hegel | René Descartes | Arthur Schopenhauer
+Hard | Qual é o nome mordomo da Família Addams? | Tropeço | Wandinha | Mãozinha | Chico Addams | Gomez Addams
+Hard | Em que ano foi criado a linguagem de programação Python? | 1989 | 1986 | 1990 | 1994 | 1997
+Hard | Quem foi responsável pela criação das primeiras linhas de produção? | Henry Ford | Kiichiro Toyoda | Karl Benz | Ferdinand Porsche | Alfonso Ferrero
+Hard | Quem foi o criador do Linux? | Linus Torvalds | James Gosling | Charles Babbage | Linus Gosling | Charles Linuxios
+Hard | Quem escreveu a obra "A Metamorfose"? | Franz Kafka | Paulo Kogos | Paulo Freire | Fiodor Dostoievski | Leon Tolstoi
+Hard | Quem foi o último presidente militar durante a ditadura militar brasileira? | João Figueiredo | Costa e Silva | Castelo Branco | Emilio Médici | Ernesto Geisel
+Hard | Quem foi o autor conhecido como “pai da história”? | Heródoto | Homero | Plutarco | Xenofonte | Aristóteles
+Hard | Quem foi o autor da obra "A Ilíada"? | Homero | Heródoto | Plutarco | Xenofonte | Tales de Mileto
+Hard | Qual é o país com a maior população do continente africano? | Nigéria | Egito | África do Sul | Marrocos | Quênia
+Hard | Quem foi o presidente dos Estados Unidos durante a Segunda Guerra Mundial? | Franklin D. Roosevelt | Theodore Roosevelt | Wilson Woodrow | William Dudley Pelley | Richard Nixon
+Hard | Qual foi o primeiro-ministro britânico que anunciou a entrada do Reino Unido na Segunda Guerra Mundial? | Neville Chamberlain | Winston Churchill | Stanley Baldwin | Anthony Eden | Clement Attlee
+Hard | Quem foi o aspirante a político paulista conhecido pela sua onipresença e suas “rages” na internet? | Paulo Kogos | Monark | Artur do Val | Kim Kataguiri | Nicolas Ferreira
+Hard | Quem foi o líder militar francês responsável pela retomada do território francês da ocupação alemã durante a Segunda Guerra Mundial? | Charles de Gaulle | Philippe Pétain | Jacques Chirac | Henri Giraud | François Hollande
+Hard | Qual é o nome da região da europa em que se situa o país da Grécia? | Península Balcânica | Península Ibérica | Península Escandinava | Baltico | Cáucaso
+Hard | Qual é o nome do reino que dominou a região da Rússia após a dissolução do império Mongol? | Horda Dourada | Bulgária | Cumania | Tartária | Khazaria
+Hard | Em que língua originalmente foram escritos os livros do novo testamento bíblico? | Grego | Aramaico | Latim | Francês | Alemão
+Hard | Que imperador romano ganhou o título de Optimus Princeps ("melhor governante")? | Trajano | Calígula | Marco Aurélio | Nerva | Domiciano
+Hard | Quem escreveu a obra "O Príncipe"? | Nicolau maquiavel | Dante Alighieri | John Locke | Thomas Hobbes | Montesquieu
+Hard | Qual é o nome da dinastia que formou o Czarado da Rússia? | Rurikovich | Romanov | Habsburg | Yamato | Hohenzollern
+Hard | Qual foi o tratado que determinou a repartição da checoslováquia em 1938? | tratado de Munique | Tratado de Varsóvia | Tratado de Versalhes | Tratado de Trianon | Tratado de Tordesilhas
